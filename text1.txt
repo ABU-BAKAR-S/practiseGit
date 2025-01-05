@@ -1,2 +1,3 @@
 This is first text.
 this text from feature 1.
+this text from remote repo.
